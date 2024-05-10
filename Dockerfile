@@ -1,4 +1,4 @@
-FROM postgres:15.6-alpine3.19
+FROM postgres:16.3-alpine3.19
 
 MAINTAINER KhulnaSoft Ltd
 LABEL khulnasoft.role=system
